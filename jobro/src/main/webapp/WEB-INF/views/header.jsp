@@ -86,5 +86,61 @@
         </div>
     </div>
     <!-- slider_area_end -->
+    <!-- testimonial_area  -->
+    <div class="testimonial_area  ">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">                   
+                </div>
+                <div class="col-xl-12">
+                    <div class="testmonial_active owl-carousel">
+                        <div class="single_carousel">
+                            <div class="row">
+                                <div class="col-lg-11">
+                                    <div class="single_testmonial d-flex align-items-center">
+                                        <div class="thumb">                                                                                    
+                                        </div>
+                                        <div class="info">
+                                            <p>일자리</p>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_carousel">
+                            <div class="row">
+                                <div class="col-lg-11">
+                                    <div class="single_testmonial d-flex align-items-center">
+                                        <div class="thumb">                                                                                       
+                                        </div>
+                                        <div class="info">
+                                             <p>일자리</p>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_carousel">
+                            <div class="row">
+                                <div class="col-lg-11">
+                                    <div class="single_testmonial d-flex align-items-center">
+                                        <div class="thumb">                                                                                      
+                                        </div>
+                                        <div class="info">
+                                            <p>일자리</p>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /testimonial_area  -->
 </body>
 </html>

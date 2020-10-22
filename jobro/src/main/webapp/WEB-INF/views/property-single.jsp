@@ -57,7 +57,7 @@
                 <h4 class="text-black">Kyla Stewart</h4>
                 <p class="text-muted mb-4">Real Estate Agent</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, iure atque sit ratione vitae neque! Laborum voluptate eius, laboriosam explicabo!</p>
-                <p><a href="#" class="btn btn-primary btn-sm">Contact Agent</a></p>
+                <p><a href="${pageContext.request.contextPath}/findjob" class="btn btn-primary btn-sm">Contact Agent</a></p>
               </div>
             </div>
 
