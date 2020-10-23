@@ -51,7 +51,7 @@
                                         
                                     </div>
                                     <div class="d-none d-lg-block">
-                                        <a class="boxed-btn3" href="#">로그인</a>
+                                        <a class="boxed-btn3" href="login">로그인</a>
                                     </div>
                                 </div>
                             </div>
