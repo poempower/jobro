@@ -26,8 +26,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="section_title text-center mb-40">
-                        
+                    <div class="section_title text-center mb-40">                       
                     </div>
                 </div>
             </div>
@@ -36,94 +35,81 @@
                     <div class="candidate_active owl-carousel">
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/1.png" alt="">
+                                 <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/1.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>잡 부</h4></a>
-                            
+                           <h4>잡 부</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/2.png" alt="">
+                                <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/2.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>양 중</h4></a>
-                            
+                            <h4>양 중</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/3.png" alt="">
+                                <a href="${pageContext.request.contextPath}/findjob/list"> <img src="${root}/resources/sam1/img/candiateds/3.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>청 소</h4></a>
-                            
+                           <h4>청 소</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/4.png" alt="">
+                                <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/4.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>신 호 수</h4></a>
-                           
+                            <h4>신 호 수</h4>                           
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/5.png" alt="">
+                                 <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/5.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>철 거</h4></a>
-                            
+                           <h4>철 거</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/6.png" alt="">
+                                <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/6.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>평 탄 화</h4></a>
-                            
+                            <h4>평 탄 화</h4>                           
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/7.png" alt="">
+                                <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/7.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>커 팅</h4></a>
-                            
+                            <h4>커 팅</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/8.png" alt="">
+                               <a href="${pageContext.request.contextPath}/findjob/list"> <img src="${root}/resources/sam1/img/candiateds/8.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>창 고</h4></a>
-                            
+                            <h4>창 고</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/9.png" alt="">
+                                <a href="${pageContext.request.contextPath}/findjob/list"> <img src="${root}/resources/sam1/img/candiateds/9.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>미 장</h4></a>
-                            
+                           <h4>미 장</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/10.png" alt="">
+                            <a href="${pageContext.request.contextPath}/findjob/list">    <img src="${root}/resources/sam1/img/candiateds/10.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>타 일</h4></a>
-                            
+                            <h4>타 일</h4>                          
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/11.png" alt="">
+                            <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/11.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>전 기</h4></a>
-                            
+                            <h4>전 기</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/12.png" alt="">
+                                <a href="${pageContext.request.contextPath}/findjob/list"> <img src="${root}/resources/sam1/img/candiateds/12.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>조 경</h4></a>
-                            
+                           <h4>조 경</h4>                            
                         </div>
                         <div class="single_candidates text-center">
                             <div class="thumb">
-                                <img src="${root}/resources/sam1/img/candiateds/13.png" alt="">
+                                 <a href="${pageContext.request.contextPath}/findjob/list"><img src="${root}/resources/sam1/img/candiateds/13.png" alt=""></a>
                             </div>
-                            <a href="#"><h4>용 접</h4></a>
-                           
+                           <h4>용 접</h4>       
                         </div>
                     </div>
                 </div>

@@ -58,7 +58,7 @@
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
 
-   <%@ include file="header.jsp" %> 
+   <%@ include file="../header.jsp" %> 
 
    
    
@@ -123,7 +123,7 @@
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
             <div class="ftco-media-1">
               <div class="ftco-media-1-inner">
-                <a href="${pageContext.request.contextPath}/findjob" class="d-inline-block mb-4"><img src="${root}/resources/sam5/images/property_1.png" alt="FImageo" class="img-fluid"></a>
+                <a href="${pageContext.request.contextPath}" class="d-inline-block mb-4"><img src="${root}/resources/sam5/images/property_1.png" alt="FImageo" class="img-fluid"></a>
                 <div class="ftco-media-details">
                 
                 </div>
@@ -142,7 +142,7 @@
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-5 ">
               <div class="ftco-media-1">
                   <div class="ftco-media-1-inner">
-                    <a href="${pageContext.request.contextPath}/givejob" class="d-inline-block mb-4"><img src="${root}/resources/sam5/images/property_3.png" alt="Image" class="img-fluid"></a>
+                    <a href="${pageContext.request.contextPath}" class="d-inline-block mb-4"><img src="${root}/resources/sam5/images/property_3.png" alt="Image" class="img-fluid"></a>
                     <div class="ftco-media-details">
                       
                     </div>
@@ -214,7 +214,7 @@
   
    <!-- property -->
    	<div>
-    <%@ include file="footer.jsp" %>
+    <%@ include file="../footer.jsp" %>
     </div> 
 </body>
 
