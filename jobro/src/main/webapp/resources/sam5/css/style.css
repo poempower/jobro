@@ -1786,7 +1786,8 @@ h1, h2, h3, h4, h5,
     padding-left: 35px; }
 
 .ftco-media-1 > .ftco-media-1-inner {
-  position: relative; }
+  position: relative;
+  background-color:white;  }
   .ftco-media-1 > .ftco-media-1-inner:after {
     position: absolute;
     content: "";
