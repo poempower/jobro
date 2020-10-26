@@ -29,11 +29,11 @@
     
 </head>
 <body>
-	<%@ include file="header.jsp" %> 
+	<%@ include file="../header.jsp" %> 
 	<div class="container login-container">
             <div class="row">
                 <div class="col-md-6 login-form-1">
-                    <h3>Login for Form 1</h3>
+                    <h3>구직 회원 로그인</h3>
                     <form>
                         <div class="form-group">
                             <input type="text" class="form-control" placeholder="Your Email *" value="" />
@@ -50,7 +50,7 @@
                     </form>
                 </div>
                 <div class="col-md-6 login-form-2">
-                    <h3>Login for Form 2</h3>
+                    <h3>구인 회원 로그인</h3>
                     <form>
                         <div class="form-group">
                             <input type="text" class="form-control" placeholder="Your Email *" value="" />
@@ -62,7 +62,6 @@
                             <input type="submit" class="btnSubmit" value="Login" />
                         </div>
                         <div class="form-group">
-
                             <a href="#" class="ForgetPwd" value="Login">Forget Password?</a>
                         </div>
                     </form>
@@ -70,7 +69,7 @@
             </div>
         </div>
         <div>
-   			<%@ include file="footer.jsp" %>
+   			<%@ include file="../footer.jsp" %>
     	</div> 
 </body>
 </html>
