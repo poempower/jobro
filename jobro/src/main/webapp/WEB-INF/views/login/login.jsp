@@ -47,6 +47,9 @@
                         <div class="form-group">
                             <a href="#" class="ForgetPwd">Forget Password?</a>
                         </div>
+                        <div class="form-group">
+                            <a href="#" class="ForgetSign">Sign Up</a>
+                        </div>
                     </form>
                 </div>
                 <div class="col-md-6 login-form-2">
@@ -63,6 +66,9 @@
                         </div>
                         <div class="form-group">
                             <a href="#" class="ForgetPwd" value="Login">Forget Password?</a>
+                        </div>
+                        <div class="form-group">
+                            <a href="#" class="ForgetSign">Sign Up</a>
                         </div>
                     </form>
                 </div>
