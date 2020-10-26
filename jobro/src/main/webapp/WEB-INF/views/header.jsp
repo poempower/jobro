@@ -75,7 +75,9 @@
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">JOBRO가 찾아드립니다.</h3>
                             <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s"></p>
                             <div class="sldier_btn wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
-                                <a href="${pageContext.request.contextPath}/findjob/list" class="boxed-btn3">일자리보기</a>
+                                
+                                <a href="${pageContext.request.contextPath}/findjob/list" class="boxed-btn3 mr-3">회원가입</a>
+                           		
                                 <a href="${pageContext.request.contextPath}/login" class="boxed-btn3">로그인</a>
                             </div>
                         </div>
