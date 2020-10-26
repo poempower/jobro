@@ -50,9 +50,7 @@
                                     <div class="phone_num d-none d-xl-block">
                                         
                                     </div>
-                                    <div class="d-none d-lg-block">
-                                        <a class="boxed-btn3" href="login">로그인</a>
-                                    </div>
+                                   
                                 </div>
                             </div>
                             <div class="col-12">
@@ -78,6 +76,7 @@
                             <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s"></p>
                             <div class="sldier_btn wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
                                 <a href="${pageContext.request.contextPath}/findjob/list" class="boxed-btn3">일자리보기</a>
+                                <a href="${pageContext.request.contextPath}/login" class="boxed-btn3">로그인</a>
                             </div>
                         </div>
                     </div>
