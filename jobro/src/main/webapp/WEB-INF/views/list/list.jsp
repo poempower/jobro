@@ -16,6 +16,10 @@
     <link rel="shortcut icon" type="image/x-icon" href="${root}/resources/sam1/img/favicon.png">
     <!-- Place favicon.ico in the root directory -->
 
+	<!-- CSS list -->
+	<link href="${root}/resources/sam1/css/list.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <!-- CSS here -->
     <link rel="stylesheet" href="${root}/resources/sam1/css/bootstrap.min.css">
     <link rel="stylesheet" href="${root}/resources/sam1/css/owl.carousel.min.css">
@@ -120,7 +124,155 @@
     <div>
     
     <h1> list</h1> 
-    
+    <body>
+	<h1 class="text-center">Team Design Section with Pure CSS Effect</h1>
+
+	
+	<div class="container">
+	<div class="row">
+	
+	<!--team-1-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/9c27b0/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-1-->
+	
+	<!--team-2-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/336699/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-2-->
+	
+	<!--team-3-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/607d8b/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-3-->
+	
+	<!--team-4-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/4caf50/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-4-->
+	
+	<!--team-5-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/e91e63/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-5-->
+	
+	<!--team-6-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/2196f3/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<a>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</a>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-6-->
+	
+	
+	
+	</div>
+	</div>
     </div>
     <!-- link that opens popup -->
     <!-- JS here -->

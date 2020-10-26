@@ -31,7 +31,7 @@
                                             <li><a href="${pageContext.request.contextPath}/findjob">일자리찾기 <i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     <li><a href="${pageContext.request.contextPath}/findjob/map">지도로 찾기</a></li>
-                                                    <li><a href="${pageContext.request.contextPath}/findjob/list">목록으로 찾기</a></li>                                                
+                                                    <li><a href="${pageContext.request.contextPath}/list">목록으로 찾기</a></li>                                                
                                                 </ul>
                                             </li>
                                             <li><a href="${pageContext.request.contextPath}/givejob">일손구하기 <i class="ti-angle-down"></i></a>
