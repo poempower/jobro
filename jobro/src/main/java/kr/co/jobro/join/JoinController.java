@@ -19,7 +19,7 @@ public class JoinController {
 	public String join() {
 		
 		
-		return "/join";
+		return "join/join";
 	}
 	
 }
