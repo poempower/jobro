@@ -141,7 +141,7 @@
 	</div>
 	
 	<div class="team-back">
-	<a href="writer">
+	<a href="writer" id="write">
 	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
 	natoque penatibus et magnis dis parturient montes,
 	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
