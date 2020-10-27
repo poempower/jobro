@@ -121,11 +121,10 @@
     </div>-->
     <!--/ catagory_area -->
 	
-    <div>
-    
-    <h1> list</h1> 
+	<!-- list start -->
+    <div>   
     <body>
-	<h1 class="text-center">Team Design Section with Pure CSS Effect</h1>
+	<h1 class="text-center mb-5"> 일자리 목록 </h1>
 
 	
 	<div class="container">
@@ -269,11 +268,150 @@
 	</div>
 	<!--team-6-->
 	
+	<!--team-7-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/9c27b0/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-7-->
+	
+	<!--team-8-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/336699/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-8-->
+	
+	<!--team-9-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/607d8b/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-9-->
+	
+	<!--team-10-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/4caf50/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-10-->
+	
+	<!--team-11-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/e91e63/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<span>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</span>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-11-->
+	
+	<!--team-12-->
+	<div class="col-lg-4">
+	<div class="our-team-main">
+	
+	<div class="team-front">
+	<img src="http://placehold.it/110x110/2196f3/fff?text=Dilip" class="img-fluid" />
+	<h3>Dilip Kevat</h3>
+	<p>Web Designer</p>
+	</div>
+	
+	<div class="team-back">
+	<a>
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque penatibus et magnis dis parturient montes,
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
+	natoque.
+	</a>
+	</div>
+	
+	</div>
+	</div>
+	<!--team-12-->
+	
 	
 	
 	</div>
 	</div>
     </div>
+    <!-- list end -->
     <!-- link that opens popup -->
     <!-- JS here -->
     <script src="${root}/resources/sam1/js/vendor/modernizr-3.5.0.min.js"></script>
